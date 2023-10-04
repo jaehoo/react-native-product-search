@@ -4,7 +4,6 @@
   "main": "node_modules/expo/AppEntry.js",
   "disableHashCheck": true,
   "usejestnative": true,
-  "devLogs": true,
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
